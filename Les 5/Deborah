@@ -1,0 +1,3 @@
+leeftijd = 30
+naam = "Deborah"
+print("Haar naam is {}, ze is {} jaar oud.".format(naam, leeftijd))
